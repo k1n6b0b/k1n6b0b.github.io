@@ -23,6 +23,9 @@ twitter_username: christopherjeffry
 github_username:  k1n6b0b
 repository: k1n6b0b/k1n6bb.github.io
 
+# include well-known directory
+include: [".well-known"]
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-hacker
